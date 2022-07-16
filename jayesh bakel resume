@@ -1,149 +1,126 @@
 {
-    "basics": {
-        "name": "Jayesh Bakle",
-        "label": "Student",
-        "picture": "",
-        "email": "2021kucp1014@iiitkota.ac.in",
-        "phone": "+916359269287",
-        "website": "",
-        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
-        "location": {
-            "address": "Ahmedabad",
-            "postalCode": "380051",
-            "city": "Ahmedabad",
-            "countryCode": " India",
-            "region": "Gujarat"
-        },
-        "profiles": [
-            {
-                "network": "",
-                "username": "",
-                "url": ""
-            },
-            {
-                "network": "Github",
-                "username": "jayesh-bakle",
-                "url": "https://github.com/jayesh-bakle"
-            },
-            {
-                "network": "linkedin",
-                "username": "Jayesh Bakle",
-                "url": "https://www.linkedin.com/feed/"
-            },
-            {
-                "network": "",
-                "username": "",
-                "url": ""
-            }
-        ]
-    },
-    "work": [
-        {
-            "company": "",
-            "position": "",
-            "website": "",
-            "startDate": "",
-            "endDate": "",
-            "summary": ""
-        },
-        {
-            "company": "",
-            "position": "",
-            "website": "",
-            "startDate": "",
-            "endDate": "",
-            "summary": ""
-        },
-        {
-            "company": "",
-            "position": "",
-            "website": "",
-            "startDate": "",
-            "endDate": "",
-            "summary": ""
-        }
-    ],
-    "education": [
-        {
-            "institution": "Indian Institute of Information Technology,Kota",
-            "area": "Engineering",
-            "studyType": "Bachelor (hons)",
-            "startDate": "",
-            "endDate": "",
-            "gpa": "",
-            "courses": [
-                "Computer Science & Engineering"
-            ]
-        }
-    ],
-    "awards": [
-        {
-            "title": "",
-            "awarder": "",
-            "date": ""
-        }
-    ],
-    "publications": [
-        {
-            "title": "",
-            "details": "",
-            "link": ""
-        },
-        {
-            "title": "",
-            "details": "",
-            "link": ""
-        },
-        {
-            "title": "",
-            "details": "",
-            "link": ""
-        }
-    ],
-    "skills": [
-        {
-            "name": " Web Development",
-            "level": "Master",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "Javascript",
-                "", 
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "C/C++",
-                "",
-                "",
-                "",
-                ""
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "English","Hindi",
-            "fluency": "Native speaker"
-        }
-    ],
-    "interests": [
-        {
-            "name": "",
-            "keywords": [
-                ""
-            ]
-        },
-        {
-            "name": "Playing",
-            "keywords": [
-                "Chess",
-                "Badminton",
-                "Cricket",
-                "football",
-            ]
-        }
-    ]
+	"basics": {
+		"name": "Jayesh Bakle",
+		"label": "Student",
+		"picture": "",
+		"email": "2021kucp1014@iiitkota.ac.in",
+		"phone": "+916359269287",
+		"website": "",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+		"location": {
+			"address": "Ahmedabad",
+			"postalCode": "380051",
+			"city": "Ahmedabad",
+			"countryCode": " India",
+			"region": "Gujarat"
+		},
+		"profiles": [{
+				"network": "",
+				"username": "",
+				"url": ""
+			},
+			{
+				"network": "Github",
+				"username": "jayesh-bakle",
+				"url": "https://github.com/jayesh-bakle"
+			},
+			{
+				"network": "linkedin",
+				"username": "Jayesh Bakle",
+				"url": "https://www.linkedin.com/feed/"
+			},
+			{
+				"network": "",
+				"username": "",
+				"url": ""
+			}
+		]
+	},
+	"work": [{
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": ""
+		},
+		{
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": ""
+		},
+		{
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": ""
+		}
+	],
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "",
+		"endDate": "",
+		"gpa": "",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "",
+		"awarder": "",
+		"date": ""
+	}],
+	"publications": [{
+			"title": "",
+			"details": "",
+			"link": ""
+		},
+		{
+			"title": "",
+			"details": "",
+			"link": ""
+		},
+		{
+			"title": "",
+			"details": "",
+			"link": ""
+		}
+	],
+	"skills": [{
+		"name": " Web Development",
+		"level": "Master",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"Javascript",
+			"C/C++"
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "Native speaker"
+	}],
+	"interests": [{
+			"name": "",
+			"keywords": [
+				""
+			]
+		},
+		{
+			"name": "Playing",
+			"keywords": [
+				"Chess",
+				"Badminton",
+				"Cricket",
+				"football"
+			]
+		}
+	]
 }
